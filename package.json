@@ -35,7 +35,7 @@
     "webpack-dev-server": "^3.9.0"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "moment": "^2.24.0",
     "vant": "^2.2.10",
     "vue": "^2.6.10",
